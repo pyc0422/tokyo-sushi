@@ -9,7 +9,7 @@ export default function Home() {
         <div>Toyko Sushi Depot</div>
       </div>
       <div>
-        Pick-up Address ｜ 取货地址: 1320 W 32nd St
+        Pick-up ｜ 取货地址: 1320 W 32nd St
       </div>
       <Menu />
     </main>
